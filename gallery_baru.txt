@@ -1,0 +1,93 @@
+    <div class="gallery-container">
+
+    <div class="gallery-card reveal" data-category="kegiatan">
+        <img src="images/1. Laporan Pertanggung Jawaban.jpg" alt="Laporan Pertanggung Jawaban (1)">
+        <h3>Laporan Pertanggung Jawaban (1)</h3>
+        <p>Laporan Pertanggung Jawaban dan Serah Terima Amanat.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="kegiatan">
+        <img src="images/2. Rihlah Iqtisodiyah.JPG" alt="Rihlah Iqtisodiyah">
+        <h3>Rihlah Iqtisodiyah</h3>
+        <p>Rihlah Iqtisodiyah Santri Akhir.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="event">
+        <img src="images/3. Arena Gembira 622.JPG" alt="Arena Gembira 622">
+        <h3>Arena Gembira 622</h3>
+        <p>Pagelaran seni Arena Gembira 622.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="santri">
+        <img src="images/4. Perfotoan Santri Akhir KMMI.JPG" alt="Perfotoan Santri Akhir KMMI">
+        <h3>Perfotoan Santri Akhir KMMI</h3>
+        <p>Perfotoan santri akhir KMMI bersama Bapak Pimpinan Pondok.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="kegiatan">
+        <img src="images/5. Amaliya Tutadris.JPG" alt="Amaliyatu Tadris Kelas Akhir KMMI">
+        <h3>Amaliyatu Tadris Kelas Akhir KMMI</h3>
+        <p>Kegiatan Amaliyatu Tadris kelas akhir KMMI.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="event">
+        <img src="images/6. Penampilan Amsus Kelas 5.JPG" alt="Penampilan Band Dari Kelas 5">
+        <h3>Penampilan Band Dari Kelas 5</h3>
+        <p>Penampilan band dari kelas 5 dalam Arena Gembira.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="event">
+        <img src="images/7. Penampilan Amsus Kelas 5 (2).JPG" alt="Penampilan Band Dari Kelas 5 (2)">
+        <h3>Penampilan Band Dari Kelas 5 (2)</h3>
+        <p>Penampilan band dari kelas 5 dalam Arena Gembira.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="kegiatan">
+        <img src="images/8. Penampilan Amsus Kelas 5 (3).JPG" alt="Pekan Olahraga Dan Seni">
+        <h3>Pekan Olahraga Dan Seni</h3>
+        <p>Kegiatan Pekan Olahraga Dan Seni.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="event">
+        <img src="images/9. Penampilan Amsus Kelas 5 (4).JPG" alt="Arena Gembira 622 (1)">
+        <h3>Arena Gembira 622 (1)</h3>
+        <p>Dokumentasi Arena Gembira 622.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="event">
+        <img src="images/10. Arena Gembira 622 (2).JPG" alt="Arena Gembira 622 (2)">
+        <h3>Arena Gembira 622 (2)</h3>
+        <p>Dokumentasi Arena Gembira 622.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="kegiatan">
+        <img src="images/11. Pekan Olahraga Dan Seni.JPG" alt="Rihlah Iqtisodiyah (1)">
+        <h3>Rihlah Iqtisodiyah (1)</h3>
+        <p>Rihlah Iqtisodiyah santri.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="kegiatan">
+        <img src="images/12. Santri Akhir Banat.CR2" alt="Idul Adha 1443 H">
+        <h3>Idul Adha 1443 H</h3>
+        <p>Dokumentasi kegiatan Idul Adha 1443 H.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="santri">
+        <img src="images/13. Pelantikan Dari Penggalang Ke Penegak.JPG" alt="Perfotoan Santri Akhir KMMI (1)">
+        <h3>Perfotoan Santri Akhir KMMI (1)</h3>
+        <p>Dokumentasi perfotoan santri akhir KMMI.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="santri">
+        <img src="images/14. Amsus Gembira.JPG" alt="Perfotoan Santri Akhir KMMI (2)">
+        <h3>Perfotoan Santri Akhir KMMI (2)</h3>
+        <p>Dokumentasi perfotoan santri akhir KMMI.</p>
+    </div>
+
+    <div class="gallery-card reveal" data-category="kegiatan">
+        <img src="images/15. Idul Adha 1443 H.JPG" alt="Amaliyatu Tadris Kelas Akhir KMMI">
+        <h3>Amaliyatu Tadris Kelas Akhir KMMI</h3>
+        <p>Kegiatan Amaliyatu Tadris kelas akhir KMMI.</p>
+    </div>
+
+    </div>
